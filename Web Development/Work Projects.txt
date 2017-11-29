@@ -12,3 +12,4 @@ Web Scraper:
 - scraped data from Counselor Max
 - exported the data to excel in a csv format
 - imported that data into Podio platform
+(I can't post my work code on my GitHub, it must remain private)
