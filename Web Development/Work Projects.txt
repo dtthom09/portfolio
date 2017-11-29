@@ -1,0 +1,14 @@
+I have worked on projects with my web developmentn job at Brick Bridge Consulting.
+These include creating unit tests and creating a web scraper.
+Unit Testing:
+- called an API
+- tested code
+- tracked work
+- made over 100 tests
+Web Scraper:
+- scraped data for over 14,000 clients
+- scraped data from over 20 different web pages
+- used an html agility pack
+- scraped data from Counselor Max
+- exported the data to excel in a csv format
+- imported that data into Podio platform
